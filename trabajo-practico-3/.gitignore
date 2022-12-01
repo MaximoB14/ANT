@@ -1,0 +1,4 @@
+.idea/
+.vscode/
+ant_cupones_venv/
+*__pycache__*
